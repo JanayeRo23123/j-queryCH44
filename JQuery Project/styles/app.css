@@ -2,6 +2,7 @@ main
 {
     display: flex;
     height: calc(100vh - 37px);
+    flex-direction: row;
 }
 
 #sectionA
